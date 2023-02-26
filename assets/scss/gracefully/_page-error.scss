@@ -1,0 +1,41 @@
+.error-wrapper{
+  overflow-x: hidden;
+  .logo-brand{
+    display: inline-block;
+    vertical-align: middle;
+    img,
+    svg{
+      width: 130px;
+      height: 30px;
+      object-fit: contain;
+      fill: #000;
+    }
+  }
+}
+
+.error-info{
+  .highlight{
+    position: relative;
+    z-index: 2;
+    display: inline-block;
+    margin-bottom: 0;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 1.3;
+    vertical-align: middle;
+    &::before{
+      position: absolute;
+      right: 0;
+      bottom: calc(0% + 21px);
+      z-index: -1;
+      width: calc(100% + 10px);
+      height: 16px;
+      content: "";
+      background-color: #ffcca8;
+    }
+  }
+}
+
+.errow-with-nav > div {
+  min-height: calc(100vh - 60px);
+}

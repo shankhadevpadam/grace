@@ -1,0 +1,87 @@
+.avatar{
+  &.avatar-ex-large {
+    height: 200px;
+    width: 200px;
+  }
+}
+
+.team {
+  &.team-primary{
+    .btn {
+      background-color: #007dc2;
+      border-color: #007dc2;
+      box-shadow: 0 3px 5px 0 rgba(42, 82, 195, .1);
+      &.btn-pills {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 30px;
+        height: 30px;
+        padding: 0;
+        border-radius: 30px;
+      }
+    }
+  }
+  img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: all 0.5s ease;
+  }
+  .team-social {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: -50px;
+    transition: all 0.5s ease;
+    .list-inline-item{
+      margin: 0 1px 10px;
+    }
+  }
+  .fea.icon-sm {
+    width: 14px;
+    height: 14px;
+    color: #fff;
+  }
+  &:hover{
+    .team-image{
+      .team-social {
+        bottom: 16px;
+      }
+    }
+  }
+}
+
+.card {
+  &.team-primary{
+    padding: 15px;
+    background: linear-gradient(360deg, #f2f2f2, #fff);
+  }
+  .card-img{
+    position: relative;
+    .card-overlay {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      opacity: 0;
+      background: linear-gradient(to bottom, transparent 0%, transparent 25%, transparent 35%, rgba(22,28,45,0.9) 100%);
+      transition: all 0.5s ease;
+    }
+  }
+  &:hover{
+    .card-img {
+      .card-overlay {
+        opacity: 1;
+      }
+    }
+  } 
+}
+
+// Single Team Member
+.team-single {
+  .team-image {
+    height: 550px;
+  }
+}

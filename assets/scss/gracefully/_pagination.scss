@@ -1,0 +1,44 @@
+.pagination-wrapper{
+	& ul{
+    padding: 0;
+		& li{
+			display: inline-block;
+			&:not(:last-child){
+				margin-right: 10px;
+				@media (max-width: 1024px) {
+					margin-right: 5px;
+				}
+			}
+			& a,
+			& span{
+				display: inline-block;
+				width: 52px;
+				height: 52px;
+				line-height: 50px;
+				text-align: center;
+				border-radius: 5px;
+				border: 1px solid #d1dbe5;
+				font-size: 18px;
+				font-weight: 600;
+				&:hover,
+				&.current{
+					background: #d1dbe5;
+					border-color: transparent;
+				}
+			}
+		}
+	}
+}
+
+.border {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #d1dbe5;
+	background-color: rgba(255, 255, 255, 0);
+	position: absolute;
+	left: 903px;
+	top: 1747px;
+	width: 52px;
+	height: 52px;
+	z-index: 63;
+}
