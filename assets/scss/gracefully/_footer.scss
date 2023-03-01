@@ -1,9 +1,15 @@
 
 // Footer
 .site-footer{
-  background-color: #22252D;
+  background-color: rgba(25, 56, 68, 1);
   padding-top: 5.625rem;
   padding-bottom: 5.625rem;
+  .logo {
+    width: 250px;
+    height: 50px;
+    object-fit: contain;
+    object-position: left;
+  }
   .bottom-left{
     color:#fff;
   }
@@ -24,7 +30,7 @@
       color: #fff;
       text-decoration: none;
       &:hover {
-        color: #7dd1f5;
+        color: #26d2a1;
       }
     }
   }

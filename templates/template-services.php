@@ -27,7 +27,7 @@ get_header(); ?>
         <div class="service-text-content">
           <h1>Aged Care</h1>
           <strong>Home is where the heart is.</strong>
-          <p>Our homes are where our life is lived and memories are made, it is our sanctuary. However, over time, some daily tasks can become a challenge. Alliance Community can help reduce some of that load by providing the support you need. We also help you to keep connected to your local community.</p>
+          <p>Our homes are where our life is lived and memories are made, it is our sanctuary. However, over time, some daily tasks can become a challenge. Gracefully Care can help reduce some of that load by providing the support you need. We also help you to keep connected to your local community.</p>
           <p>We understand that everyone has different needs, abilities, and aspirations. We are committed to delivering our support with a flexible approach that focuses on your unique needs and empowers you to take control of your life.</p>
           <h3>We are an approved provider to the following programs: </h3>
           <ul>
@@ -120,7 +120,7 @@ get_header(); ?>
           </div>
           <div class="get-started-info">
             <h1>Join our team</h1>
-            <p>Have you got what it takes? Become a Support Star with Alliance Community to make a difference in your community.</p>
+            <p>Have you got what it takes? Become a Support Star with Gracefully Care to make a difference in your community.</p>
           </div>
           <a href="<?php echo home_url('become-a-support-star/'); ?>" class="btn btn-secondary px-4 py-2">Become a Support Star</a>
         </div>

@@ -11,12 +11,12 @@
 }
 
 .navbar-brand{
-  width: 110px;
+  width: 136px;
   height: 56px;
   img{
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
   }
 }
 
@@ -64,8 +64,8 @@
 
 
 .nav-item{
-  margin: 0 10px;
-  padding: 0 15px;
+  margin: 0 5px;
+  padding: 0 10px;
   @media (max-width: 1270px) {
     padding: 0 5px;
   }
@@ -133,7 +133,8 @@
     z-index: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(-45deg,#ffcca8, #f69d5e, #007dc2, #23d5ab);
+    //background: linear-gradient(-45deg,#ffcca8, #f69d5e, #007dc2, #23d5ab);
+    background: linear-gradient(-45deg, #00596c, #00596c, #38a082, #23d5ab);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
     content: '';
@@ -168,6 +169,7 @@
   top: 0;
   left: 0;
   z-index: -1;
+  transform: scale(1.1);
   @media (max-width: 690px) {
     transform: scale(2);
   }
@@ -208,7 +210,7 @@
       height: 2px;
       width: 100px;
       margin: 0 auto;
-      background-color: #1a77d2;
+      background-color: #00ca90;
       content: "";
     }
   }
@@ -268,7 +270,7 @@
         opacity: 1;
       }
       h4 {
-        color: #7DD1F5;
+        color: #00ca90;
       }
     } 
   }
@@ -276,7 +278,7 @@
 
 // Home Support
 .home-support{
-  background: #f4f4f4;
+  background: #fafafa;
 }
 
 // Card list
@@ -320,7 +322,7 @@
       padding-bottom: 3px;
       font-size: 14px;
       font-weight: 700;
-      color: #7dd1f5;
+      color: #00596c;
       border-bottom: 1px solid transparent;
       transition: all 0.3s;
       &:hover{
@@ -400,7 +402,7 @@
 }
 
 .home-stories{
-  background-color: #fbefeb;
+  background-color: #ebfbf1;
 }
 
 .stories-content-wrapper{

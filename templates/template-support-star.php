@@ -43,7 +43,7 @@ get_header(); ?>
         <div class="service-text-content">
           <h1>Meet Catherine</h1>
           <strong>Hear Catherine’s story about becoming a Support Star</strong>
-          <p>Catherine felt that she needed to give back to her community after feeling fortunate about her upbringing. After her first shift with Alliance Community, Catherine knew that she had found a career where she could truly give back and support others, and where each day would challenge and inspire her. If you think you have the qualities to become one of our Support Stars, register today!</p>
+          <p>Catherine felt that she needed to give back to her community after feeling fortunate about her upbringing. After her first shift with Gracefully Care, Catherine knew that she had found a career where she could truly give back and support others, and where each day would challenge and inspire her. If you think you have the qualities to become one of our Support Stars, register today!</p>
           <p>If so, we think you might make the perfect Support Star, and we’re hiring now!</p>
           <p>We understand that everyone has different needs, abilities, and aspirations. We are committed to delivering our support with a flexible approach that focuses on your unique needs and empowers you to take control of your life.</p>
         </div>

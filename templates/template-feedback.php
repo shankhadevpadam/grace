@@ -26,7 +26,7 @@ get_header(); ?>
       <div class="col-lg-12 py-5">
         <div class="service-text-content">
           <h3 class="fw-bolder mt-4 mb-3">Feedback, Compliments and Complaints</h3>
-          <p>Alliance Community is dedicated to a continuous improvement of the way we work and the quality of support we provide to our clients. A crucial part in achieving that is your honest throughts and feedback. We encourage you to share your opinion and welcome all feedback (big and small), as it helps us improve our processes and, at the end, how we support you.</p>
+          <p>Gracefully Care is dedicated to a continuous improvement of the way we work and the quality of support we provide to our clients. A crucial part in achieving that is your honest throughts and feedback. We encourage you to share your opinion and welcome all feedback (big and small), as it helps us improve our processes and, at the end, how we support you.</p>
           <p>To share your feedback, compliment or complaint with us, please use the form below. If you prefer to speak to someone about your feedback, compliment or complaint, please call us during business hours on <a href="tel:1300 769 155">1300 769 155</a>.</p>
         </div>
       </div>
@@ -51,8 +51,8 @@ get_header(); ?>
         <div class="form-floating mb-3">
           <select class="form-select" id="floatingSelect-feedbacktype" aria-label="Floating label select">
             <option selected>Please select</option>
-            <option value="1">I am an Alliance Community client</option>
-            <option value="2">I am an Alliance Community support worker</option>
+            <option value="1">I am an Gracefully Care client</option>
+            <option value="2">I am an Gracefully Care support worker</option>
             <option value="3">I am a friend/relative/carer of a client</option>
             <option value="4">Others</option>
           </select>

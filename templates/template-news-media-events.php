@@ -41,7 +41,7 @@ get_header(); ?>
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
               <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
               <div class="post-meta-1 mb-20">
-                  <a href="#" class="tag-category shadown-1 text-dark button-shadow hover-up-3">Covid-19</a>
+                  <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
             </div>
             <div class="post-content">
@@ -52,7 +52,7 @@ get_header(); ?>
                   <h4 class="post-title mb-30">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
                   </h4>
-                  <p class="mb-4">Alliance Community are closely monitoring the official Government sources and the World Health...</p>
+                  <p class="mb-4">Gracefully Care are closely monitoring the official Government sources and the World Health...</p>
                   <div class="post-meta-2 font-md">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
@@ -69,7 +69,7 @@ get_header(); ?>
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
               <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
               <div class="post-meta-1 mb-20">
-                  <a href="#" class="tag-category shadown-1 text-dark button-shadow hover-up-3">Covid-19</a>
+                  <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
             </div>
             <div class="post-content">
@@ -97,7 +97,7 @@ get_header(); ?>
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
               <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
               <div class="post-meta-1 mb-20">
-                  <a href="#" class="tag-category shadown-1 text-dark button-shadow hover-up-3">Covid-19</a>
+                  <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
             </div>
             <div class="post-content">
@@ -125,7 +125,7 @@ get_header(); ?>
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
               <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
               <div class="post-meta-1 mb-20">
-                  <a href="#" class="tag-category shadown-1 text-dark button-shadow hover-up-3">Covid-19</a>
+                  <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
             </div>
             <div class="post-content">
@@ -136,7 +136,7 @@ get_header(); ?>
                   <h4 class="post-title mb-30">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
                   </h4>
-                  <p class="mb-4">Alliance Community has partnered with Apprenticeship Careers Australia to launch an innovative...</p>
+                  <p class="mb-4">Gracefully Care has partnered with Apprenticeship Careers Australia to launch an innovative...</p>
                   <div class="post-meta-2 font-md">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
@@ -153,7 +153,7 @@ get_header(); ?>
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
               <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
               <div class="post-meta-1 mb-20">
-                  <a href="#" class="tag-category shadown-1 text-dark button-shadow hover-up-3">Covid-19</a>
+                  <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
             </div>
             <div class="post-content">
@@ -164,7 +164,7 @@ get_header(); ?>
                   <h4 class="post-title mb-30">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
                   </h4>
-                  <p class="mb-4">At Alliance Community we wanted to shine a light on our amazing Support Stars.</p>
+                  <p class="mb-4">At Gracefully Care we wanted to shine a light on our amazing Support Stars.</p>
                   <div class="post-meta-2 font-md">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
@@ -181,7 +181,7 @@ get_header(); ?>
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
               <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
               <div class="post-meta-1 mb-20">
-                  <a href="#" class="tag-category shadown-1 text-dark button-shadow hover-up-3">Covid-19</a>
+                  <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
             </div>
             <div class="post-content">
@@ -192,7 +192,7 @@ get_header(); ?>
                   <h4 class="post-title mb-30">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
                   </h4>
-                  <p class="mb-4">At Alliance Community we wanted to shine a light on our amazing Support Stars.</p>
+                  <p class="mb-4">At Gracefully Care we wanted to shine a light on our amazing Support Stars.</p>
                   <div class="post-meta-2 font-md">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">

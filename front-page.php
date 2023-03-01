@@ -76,7 +76,7 @@
                     <h1>Chloe &amp; Catherine</h1>
                   </a>
                   <p>Chloe and Catherine are the perfect match! After a skiing accident in 2017, Chloe was left paralysed. Catherine has been there through the ups and the downs of Chloe’s journey, supporting her with her daily routine, household cleaning and as a new found friend.</p>
-                  <a href="#" class="btn btn-primary text-white">Watch</a>
+                  <a href="#" class="btn btn-primary text-white px-4">Watch</a>
                 </div>
               </div>
               <div class="col-lg-6">
@@ -98,7 +98,7 @@
                     <h1>Chloe &amp; Catherine</h1>
                   </a>
                   <p>Chloe and Catherine are the perfect match! After a skiing accident in 2017, Chloe was left paralysed. Catherine has been there through the ups and the downs of Chloe’s journey, supporting her with her daily routine, household cleaning and as a new found friend.</p>
-                  <a href="#" class="btn btn-primary text-white">Watch</a>
+                  <a href="#" class="btn btn-primary text-white px-4">Watch</a>
                 </div>
               </div>
               <div class="col-lg-6">
@@ -120,16 +120,16 @@
   <div class="container">
     <div class="row align-items-center">
       <div class="offset-xl-1 col-lg-6 mb-3 mb-lg-0">
-        <img src="<?php bloginfo('template_directory');?>/assets/images/img-home-2.jpg" alt="Alliance Community Support Star Staff in Action" class="img-fluid">
+        <img src="<?php bloginfo('template_directory');?>/assets/images/img-home-2.jpg" alt="Gracefully Care Star Staff in Action" class="img-fluid">
       </div>
       <div class="col-lg-6 col-xl-5">
         <div class="section-header header-article">
           <div id="support-pro-content" class="common-heading">
             <strong class="font-title">Support Star</strong>
             <h1>Become a Support Star!</h1>
-            <p>Do you have the right qualities? Become a Support Star with Alliance Community to make a difference in your community.</p>
+            <p>Do you have the right qualities? Become a Support Star with Gracefully Care to make a difference in your community.</p>
           </div>
-          <a href="<?php echo home_url('become-a-support-star/'); ?>" class="btn btn-primary text-white">Become a Support Star</a>
+          <a href="<?php echo home_url('become-a-support-star/'); ?>" class="btn btn-primary text-white px-4">Become a Support Star</a>
         </div>
       </div>
     </div>
@@ -371,7 +371,7 @@
           </div>
           <div class="get-started-info">
             <h1>Join our team</h1>
-            <p>Have you got what it takes? Become a Support Star with Alliance Community to make a difference in your community.</p>
+            <p>Have you got what it takes? Become a Support Star with Gracefully Care to make a difference in your community.</p>
           </div>
           <a href="#" class="btn btn-secondary px-4 py-2">Become a Support Star</a>
         </div>
