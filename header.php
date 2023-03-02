@@ -88,10 +88,10 @@
             <div class="large-buttons">
               <ul>
                 <li>
-                  <a href="<?php echo home_url('become-a-support-star/'); ?>" class="btn btn-secondary">Schedule a Support Consultation</a>
+                  <a href="<?php echo home_url('become-a-support-star/'); ?>" class="btn btn-secondary">Schedule a Support Consultation test</a>
                 </li>
                 <li>
-                  <a href="<?php echo home_url('become-a-support-star/'); ?>"  class="btn btn-primary text-white">Become a Support Star</a>
+                  <a href="<?php echo home_url('become-a-support-star/'); ?>"  class="btn btn-primary text-white">Become a Support Star test</a>
                 </li>
               </ul>
             </div>
