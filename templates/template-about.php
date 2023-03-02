@@ -27,9 +27,9 @@ get_header(); ?>
         <div class="service-text-content">
           <h1>About us</h1>
           <h4 class="fw-bolder mt-4 mb-3">Who we are</h4>
-          <p>Alliance Community is Australia’s leading provider of premium community support and an NDIS registered provider. </p>
+          <p>Gracefully Care is Australia’s leading provider of premium community support and an NDIS registered provider. </p>
           <p>As part of <a href="#">Health Solutions Group Australia</a>, we have offices across Australia and can offer support to you no matter where you live. Together, we have a collective 130 years’ experience recruiting Australia’s best team of nurses, aged care workers, disability support and other specialist support staff across the country.</p>
-          <p>Our management are healthcare experts with a long history in clinical roles, having worked in frontline care throughout their careers. It is this personal, first-hand experience and an in-depth knowledge of the industry that underpins the Alliance Community culture of support. Support at every level for our clients and our workforce.</p>
+          <p>Our management are healthcare experts with a long history in clinical roles, having worked in frontline care throughout their careers. It is this personal, first-hand experience and an in-depth knowledge of the industry that underpins the Gracefully Care culture of support. Support at every level for our clients and our workforce.</p>
           <p>The centre of our universe is our people.  Without the best employees we couldn’t provide the industry's best support. That’s why our support workers are called Support Stars!</p>
           <h4 class="fw-bolder mt-4 mb-3">Delivering tailored support</h4>
           <p>We understand that no two people are the same and that’s why we focus on delivering tailored support packages; unique to you and your needs.</p>
@@ -39,7 +39,7 @@ get_header(); ?>
           <h4 class="fw-bolder mt-4 mb-3">Growing the workforce</h4>
           <p>Our focus is making sure all communities in Australia have access to premium community support services.</p>
           <p>With Australia’s rapidly aging population, we are seeing more people leave the workforce than the number of replacements entering. The demand for care is obviously increasing at the same time!</p>
-          <p>As part of the business chamber movement in Australia (being wholly owned by Business Australia, previously known as NSW Business Chamber) Alliance Community is in the fortunate position of having access to some of the best people and resources to re-imagine the recruitment process to attract talent to the healthcare industry. </p>
+          <p>As part of the business chamber movement in Australia (being wholly owned by Business Australia, previously known as NSW Business Chamber) Gracefully Care is in the fortunate position of having access to some of the best people and resources to re-imagine the recruitment process to attract talent to the healthcare industry. </p>
           <p>Innovation is key if we as a country are going to address this demand. We need more younger people to join our profession! We work closely with Skillsroad.com.au to provide education to young people in Australia about the opportunity to make a difference by pursuing a career in health.</p>
           <p>We also partner with our sister companies, Apprenticeship Careers Australia and Apprenticeship Support Australia to provide career progression opportunities for our workforce through traineeships. Many of our people start with no qualifications and study as they gain experience!</p>
           <h2 class="fw-bolder mt-5 mb-3">Australian Workplace Gender Equality Agency (WGEA) reporting</h2>

@@ -24,9 +24,9 @@ get_header(); ?>
     <div class="row">
       <div class="col-lg-12 pt-5 pb-3">
         <div class="service-text-content">
-          <h1>Hearts of Alliance Community</h1>
-          <p>At Alliance Community we wanted to shine a light on our amazing Support Stars and internal team members. Our Support Stars and team across our branches make Alliance Community what it is and are the ones working with each other and our wonderful clients every day.</p>
-          <p>Our Support Stars and internal team love what they do and each have their own story to tell, that’s why we’re sharing the real profiles and experiences of the Hearts of Alliance Community!</p>
+          <h1>Hearts of Gracefully Care</h1>
+          <p>At Gracefully Care we wanted to shine a light on our amazing Support Stars and internal team members. Our Support Stars and team across our branches make Gracefully Care what it is and are the ones working with each other and our wonderful clients every day.</p>
+          <p>Our Support Stars and internal team love what they do and each have their own story to tell, that’s why we’re sharing the real profiles and experiences of the Hearts of Gracefully Care!</p>
         </div>
       </div>
     </div>
@@ -111,7 +111,7 @@ get_header(); ?>
               <a href="<?php echo home_url('about-us/our-people/ariana/'); ?>" class="text-dark h5 mb-0 title">Claire</a>
               <h6 class="text-muted fw-normal">Clinical Nurse</h6>
               <h6 class="mb-3"><i class="bi bi-geo-alt-fill"></i> QLD</h6>
-              <p>Say hello to Claire!She started her journey as a Clinical Nurse with Alliance Community seven ...</p>
+              <p>Say hello to Claire!She started her journey as a Clinical Nurse with Gracefully Care seven ...</p>
           </div>
         </div>
       </div>
@@ -151,7 +151,7 @@ get_header(); ?>
               <a href="<?php echo home_url('about-us/our-people/ariana/'); ?>" class="text-dark h5 mb-0 title">Dylan</a>
               <h6 class="text-muted fw-normal">Support & Care Coordinator</h6>
               <h6 class="mb-3"><i class="bi bi-geo-alt-fill"></i> NSW</h6>
-              <p>Meet Dylan! He joined Alliance Community a year ago and is enjoying his role as a Support ...</p>
+              <p>Meet Dylan! He joined Gracefully Care a year ago and is enjoying his role as a Support ...</p>
           </div>
         </div>
       </div>
@@ -347,7 +347,7 @@ get_header(); ?>
           </div>
           <div class="get-started-info">
             <h1>Join our team</h1>
-            <p>Have you got what it takes? Become a Support Star with Alliance Community to make a difference in your community.</p>
+            <p>Have you got what it takes? Become a Support Star with Gracefully Care to make a difference in your community.</p>
           </div>
           <a href="#" class="btn btn-secondary px-4 py-2">Become a Support Star</a>
         </div>

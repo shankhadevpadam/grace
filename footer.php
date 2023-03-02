@@ -15,12 +15,12 @@
     <div class="container">
         <div class="row">
           <div class="col-sm-3">
-              <img class="logo" src="<?php bloginfo('template_directory');?>/assets/images/logo-alliance-community-white.svg" alt="Alliance Community Health">
+              <img class="logo" src="<?php bloginfo('template_directory');?>/assets/images/logo-gracefully-care.png" alt="Gracefully Care Logo">
               <div class="row bottom-left" style="margin-top:10px; color:#fff;">
                 <div class="col-12">
-                    <p>Recruitment Solutions Group Australia Pty Ltd<br>
-                      ABN 86 157 291 541<br>
-                      Trading as: Alliance Community.
+                    <p>Recruitment Solutions Group Australia Pvt. Ltd<br>
+                      ABN 84 007 291 590<br>
+                      Trading as: Gracefully Care.
                     </p>
                 </div>
               </div>
@@ -44,12 +44,12 @@
               </nav>
           </div>
         </div>
-        <div class="footer-bottom mt-5">
+        <div class="footer-bottom mt-4">
           <div>
             <p class="text-white">We offer respect and acknowledgement to Indigenous Peoples of Australia as the first inhabitants of this land. We offer our acknowledgement to their traditional and ongoing roles as custodians of Land and culture. We offer our respect to their Elders past, present and emerging.</p>
           </div>
           <div class="bottom-left">
-            <span>&copy;  <?php echo $curr_year = date('Y'); ?> Alliance Community.</span>
+            <span>&copy;  <?php echo $curr_year = date('Y'); ?> Gracefully Care.</span>
             <a href="<?php echo home_url('website-accessibility/'); ?>">Website Accessibility</a>
             <a href="<?php echo home_url('privacy-policy/'); ?>">Privacy Policy</a>
             <a href="<?php echo home_url('platform-access/'); ?>">Platform Access</a>
@@ -61,7 +61,7 @@
             <img src="<?php bloginfo('template_directory');?>/assets/images/icons/NDIS-Certification-Colour-150x150.jpg" alt="ACIS Global Mark" height="32">
             <img src="<?php bloginfo('template_directory');?>/assets/images/icons/ACIA-logo.png" alt="ACIA Global Mark" height="32">
           </div>
-          <div class="bottom-right">
+          <div class="bottom-right d-flex gap-3">
             <a href="#" class="link-facebook" target="_blank">
               <i class="bi bi-facebook"></i>
             </a><a href="#" class="link-facebook" target="_blank">

@@ -27,7 +27,7 @@ get_header(); ?>
       <div class="col-lg-12 py-5">
         <div class="service-text-content">
           <h1 class="mb-2">After a Few Dates, They Covid-19 to the Other Side of the World</h1>
-          <p>On Thursday 3 December 2020, in celebration of International Day of People with Disability (IDPwD), Alliance Community hosted a live conversation with advocate and model, Madeline Stuart and her manager and mum, Rosanne.</p>
+          <p>On Thursday 3 December 2020, in celebration of International Day of People with Disability (IDPwD), Gracefully Care hosted a live conversation with advocate and model, Madeline Stuart and her manager and mum, Rosanne.</p>
           <p>If you missed the live conversation, you can watch the broadcast by clicking the play button below!</p>
           <div class="ratio ratio-16x9 pt-0 pb-5">
             <iframe src="https://player.vimeo.com/video/229681278?h=cb47d00ad8&autoplay=0&loop=0&muted=0&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
@@ -67,7 +67,7 @@ get_header(); ?>
                   <h4 class="post-title mb-30">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19 to the Other Side of the World</a>
                   </h4>
-                  <p class="mb-4">At Alliance Community we wanted to shine a light on our amazing Support Stars.</p>
+                  <p class="mb-4">At Gracefully Care we wanted to shine a light on our amazing Support Stars.</p>
                   <div class="post-meta-2 font-md">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19-to-the-other-side-of-the-world/'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
@@ -95,7 +95,7 @@ get_header(); ?>
                   <h4 class="post-title mb-30">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19 to the Other Side of the World</a>
                   </h4>
-                  <p class="mb-4">At Alliance Community we wanted to shine a light on our amazing Support Stars.</p>
+                  <p class="mb-4">At Gracefully Care we wanted to shine a light on our amazing Support Stars.</p>
                   <div class="post-meta-2 font-md">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19-to-the-other-side-of-the-world/'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
@@ -123,7 +123,7 @@ get_header(); ?>
                   <h4 class="post-title mb-30">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19 to the Other Side of the World</a>
                   </h4>
-                  <p class="mb-4">At Alliance Community we wanted to shine a light on our amazing Support Stars.</p>
+                  <p class="mb-4">At Gracefully Care we wanted to shine a light on our amazing Support Stars.</p>
                   <div class="post-meta-2 font-md">
                     <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19-to-the-other-side-of-the-world/'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">

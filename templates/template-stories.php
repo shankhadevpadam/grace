@@ -118,7 +118,7 @@ get_header(); ?>
           </div>
           <div class="get-started-info">
             <h1>Join our team</h1>
-            <p>Have you got what it takes? Become a Support Star with Alliance Community to make a difference in your community.</p>
+            <p>Have you got what it takes? Become a Support Star with Gracefully Care to make a difference in your community.</p>
           </div>
           <a href="<?php echo home_url('become-a-support-star/'); ?>" class="btn btn-secondary px-4 py-2">Become a Support Star</a>
         </div>

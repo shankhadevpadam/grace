@@ -25,7 +25,7 @@ get_header(); ?>
       <div class="col-lg-12 py-5">
         <div class="service-text-content">
           <h3 class="fw-bolder mt-4 mb-3">Connect with us for better care.</h3>
-          <p>Our homes are where our life is lived and memories are made, it is our sanctuary. However, over time, some daily tasks can become a challenge. Alliance Community can help reduce some of that load by providing the support you need. We also help you to keep connected to your local community.</p>
+          <p>Our homes are where our life is lived and memories are made, it is our sanctuary. However, over time, some daily tasks can become a challenge. Gracefully Care can help reduce some of that load by providing the support you need. We also help you to keep connected to your local community.</p>
           <p>We understand that everyone has different needs, abilities, and aspirations. We are committed to delivering our support with a flexible approach that focuses on your unique needs and empowers you to take control of your life.</p>
         </div>
       </div>

@@ -8,8 +8,8 @@
 .team {
   &.team-primary{
     .btn {
-      background-color: #007dc2;
-      border-color: #007dc2;
+      background-color: #00ca90;
+      border-color: #00ca90;
       box-shadow: 0 3px 5px 0 rgba(42, 82, 195, .1);
       &.btn-pills {
         display: flex;
@@ -55,7 +55,7 @@
 .card {
   &.team-primary{
     padding: 15px;
-    background: linear-gradient(360deg, #f2f2f2, #fff);
+    background: linear-gradient(360deg, #ebfff9, #fff);
   }
   .card-img{
     position: relative;
