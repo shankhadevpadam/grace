@@ -123,6 +123,14 @@ function ilovemylook_redirect_url($template)
             $template = __DIR__ . '/templates/template-pricing.php';
             break;
 
+        case '36':
+            $template = __DIR__ . '/templates/template-become-star.php';
+            break;
+
+        case '42':
+            $template = __DIR__ . '/templates/template-website-accessibility.php';
+            break;
+
         default:
             break;
     }
