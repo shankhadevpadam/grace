@@ -146,6 +146,10 @@ function ilovemylook_redirect_url($template)
         case '30':
             $template = __DIR__ . '/templates/template-feedback.php';
             break;
+            
+        case '49':
+            $template = __DIR__ . '/templates/template-404.php';
+            break;
 
         default:
             break;
