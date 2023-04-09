@@ -96,15 +96,19 @@ function ilovemylook_redirect_url($template)
             break;
     
         case '27':
-            $template = __DIR__ . '/templates/template-about.php';
+            $template = __DIR__ . '/templates/template-our-people.php';
+            break;
+
+        case '32':
+            $template = __DIR__ . '/templates/template-our-people-single.php';
             break;
         
-        case '24':
+        case '22':
             $template = __DIR__ . '/templates/template-contact.php';
             break;
             
-        case '22':
-            $template = __DIR__ . '/templates/template-blog-single.php';
+        case '40':
+            $template = __DIR__ . '/templates/template-news-single.php';
             break;
         
         case '15':
@@ -112,7 +116,7 @@ function ilovemylook_redirect_url($template)
             break;
     
         case '20':
-            $template = __DIR__ . '/templates/template-services-core.php';
+            $template = __DIR__ . '/templates/template-about.php';
             break;
         
         case '17':
@@ -129,6 +133,18 @@ function ilovemylook_redirect_url($template)
 
         case '42':
             $template = __DIR__ . '/templates/template-website-accessibility.php';
+            break;
+
+        case '18':
+            $template = __DIR__ . '/templates/template-stories.php';
+            break;
+
+        case '25':
+            $template = __DIR__ . '/templates/template-story-single.php';
+            break;
+            
+        case '30':
+            $template = __DIR__ . '/templates/template-feedback.php';
             break;
 
         default:

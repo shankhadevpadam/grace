@@ -4,6 +4,15 @@
   background-color: rgba(25, 56, 68, 1);
   padding-top: 5.625rem;
   padding-bottom: 5.625rem;
+  // @media (max-width: 768px){
+  //   padding-top: 3.625rem;
+  //   padding-bottom: 3.625rem;
+  // }
+  @media (max-width: 1199px){
+    display: flex;
+    padding-top: 3.625rem;
+    padding-bottom: 3.625rem;
+  }
   .logo {
     width: 250px;
     height: 50px;

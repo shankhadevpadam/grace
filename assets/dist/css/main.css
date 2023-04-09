@@ -78,6 +78,7 @@
   }
 }
 .nav-item .dropdown-menu {
+  top: calc(100% + 14px);
   padding: 0;
   border: 0;
   border-radius: 0;
@@ -116,6 +117,11 @@
 @media (max-width: 1300px) {
   .large-buttons ul li a {
     padding: 12px 10px;
+  }
+}
+@media (max-width: 720px) {
+  .large-buttons ul li a {
+    padding: 8px 10px;
   }
 }
 
@@ -520,10 +526,11 @@
 }
 
 .dropdown-toggle::after {
-  background: url("../../images/icons/icon-dropdown.svg") center/contain no-repeat;
-  width: 13px;
+  margin-left: 5px;
+  width: 11px;
   height: 15px;
   vertical-align: -2px;
+  background: url("../../images/icons/icon-dropdown.svg") center/contain no-repeat;
   border: 0;
 }
 
@@ -723,6 +730,33 @@
   content: "";
 }
 
+.stories-carousel .owl-nav {
+  display: flex;
+  gap: 12px;
+  bottom: 40px;
+}
+.stories-carousel .owl-nav button.owl-prev, .stories-carousel .owl-nav button.owl-next {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  margin: 0;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 50%;
+}
+.stories-carousel .owl-nav button.owl-prev span, .stories-carousel .owl-nav button.owl-next span {
+  display: block;
+  transform: scale(1.6) translateY(-1px);
+  transform-origin: center;
+}
+@media (max-width: 991px) {
+  .stories-carousel .stories-content-wrapper {
+    margin-bottom: 32px;
+  }
+}
+
 .story-inline-wrapper {
   display: flex;
   align-items: center;
@@ -855,6 +889,13 @@
   padding-top: 5.625rem;
   padding-bottom: 5.625rem;
 }
+@media (max-width: 1199px) {
+  .site-footer {
+    display: flex;
+    padding-top: 3.625rem;
+    padding-bottom: 3.625rem;
+  }
+}
 .site-footer .logo {
   width: 250px;
   height: 50px;
@@ -913,7 +954,7 @@
 }
 
 .step-form-container {
-  background: #2184be;
+  background: var(--bs-secondary);
 }
 .step-form-container .step-form-content h1 {
   margin: 0 0 15px;
@@ -938,11 +979,11 @@
   width: 100%;
   padding: 9px 15px;
   font-size: 20px;
-  border: 1px solid #2184be;
+  border: 1px solid var(--bs-secondary);
 }
 .step-form-container .step-form-wrapper .content input[type=radio]:checked ~ label {
   color: #fff;
-  background: #2184be;
+  background: var(--bs-secondary);
 }
 
 /* Common */
@@ -1172,7 +1213,7 @@
   padding: 0.7em 1em;
   font-size: 15px;
   font-weight: 600;
-  background: #2184be;
+  background: var(--bs-secondary);
   color: #fff;
   text-decoration: none;
   border-radius: 0;

@@ -39,7 +39,7 @@ get_header(); ?>
       <article class="col-lg-6 col-md-6 mb-5">
         <div class="post-card-1 large border-radius-10 hover-up">
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
-              <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
+              <a class="img-link" href="<?php echo home_url('/?page_id=40'); ?>"></a>
               <div class="post-meta-1 mb-20">
                   <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
@@ -50,11 +50,11 @@ get_header(); ?>
                     <span class="post-on has-dot">27 August</span>
                   </div>
                   <h4 class="post-title mb-30">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
                   </h4>
                   <p class="mb-4">Gracefully Care are closely monitoring the official Government sources and the World Health...</p>
                   <div class="post-meta-2 font-md">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
                       <span class="author-namge">Kate Adie</span>
                     </a>
@@ -67,7 +67,7 @@ get_header(); ?>
       <article class="col-lg-6 col-md-6 mb-5">
         <div class="post-card-1 large border-radius-10 hover-up">
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
-              <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
+              <a class="img-link" href="<?php echo home_url('/?page_id=40'); ?>"></a>
               <div class="post-meta-1 mb-20">
                   <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
@@ -78,11 +78,11 @@ get_header(); ?>
                     <span class="post-on has-dot">27 August</span>
                   </div>
                   <h4 class="post-title mb-30">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
                   </h4>
                   <p class="mb-4">On Thursday 3 December 2020, in celebration of International Day of People with Disability (IDPwD...</p>
                   <div class="post-meta-2 font-md">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
                       <span class="author-namge">Kate Adie</span>
                     </a>
@@ -95,7 +95,7 @@ get_header(); ?>
       <article class="col-lg-6 col-md-6 mb-5">
         <div class="post-card-1 large border-radius-10 hover-up">
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
-              <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
+              <a class="img-link" href="<?php echo home_url('/?page_id=40'); ?>"></a>
               <div class="post-meta-1 mb-20">
                   <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
@@ -106,11 +106,11 @@ get_header(); ?>
                     <span class="post-on has-dot">27 August</span>
                   </div>
                   <h4 class="post-title mb-30">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
                   </h4>
                   <p class="mb-4">On Thursday 3 December 2020, in celebration of International Day of People with Disability (IDPwD...</p>
                   <div class="post-meta-2 font-md">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
                       <span class="author-namge">Kate Adie</span>
                     </a>
@@ -123,7 +123,7 @@ get_header(); ?>
       <article class="col-lg-6 col-md-6 mb-5">
         <div class="post-card-1 large border-radius-10 hover-up">
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
-              <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
+              <a class="img-link" href="<?php echo home_url('/?page_id=40'); ?>"></a>
               <div class="post-meta-1 mb-20">
                   <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
@@ -134,11 +134,11 @@ get_header(); ?>
                     <span class="post-on has-dot">27 August</span>
                   </div>
                   <h4 class="post-title mb-30">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
                   </h4>
                   <p class="mb-4">Gracefully Care has partnered with Apprenticeship Careers Australia to launch an innovative...</p>
                   <div class="post-meta-2 font-md">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
                       <span class="author-namge">Kate Adie</span>
                     </a>
@@ -151,7 +151,7 @@ get_header(); ?>
       <article class="col-lg-6 col-md-6 mb-5">
         <div class="post-card-1 large border-radius-10 hover-up">
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
-              <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
+              <a class="img-link" href="<?php echo home_url('/?page_id=40'); ?>"></a>
               <div class="post-meta-1 mb-20">
                   <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
@@ -162,11 +162,11 @@ get_header(); ?>
                     <span class="post-on has-dot">27 August</span>
                   </div>
                   <h4 class="post-title mb-30">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
                   </h4>
                   <p class="mb-4">At Gracefully Care we wanted to shine a light on our amazing Support Stars.</p>
                   <div class="post-meta-2 font-md">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
                       <span class="author-namge">Kate Adie</span>
                     </a>
@@ -179,7 +179,7 @@ get_header(); ?>
       <article class="col-lg-6 col-md-6 mb-5">
         <div class="post-card-1 large border-radius-10 hover-up">
             <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/lady-making-bed.png)">
-              <a class="img-link" href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>"></a>
+              <a class="img-link" href="<?php echo home_url('/?page_id=40'); ?>"></a>
               <div class="post-meta-1 mb-20">
                   <a href="#" class="tag-category shadown-1 button-shadow hover-up-3">Covid-19</a>
               </div>
@@ -190,11 +190,11 @@ get_header(); ?>
                     <span class="post-on has-dot">27 August</span>
                   </div>
                   <h4 class="post-title mb-30">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">After a Few Dates, They Covid-19ed to the Other Side of the World</a>
                   </h4>
                   <p class="mb-4">At Gracefully Care we wanted to shine a light on our amazing Support Stars.</p>
                   <div class="post-meta-2 font-md">
-                    <a href="<?php echo home_url('news-and-media/after-a-few-dates-they-covid-19ed-to-the-other-side-of-the-world/'); ?>">
+                    <a href="<?php echo home_url('/?page_id=40'); ?>">
                       <img src="<?php bloginfo('template_directory');?>/assets/images/gallery-img1.jpg" alt="">
                       <span class="author-namge">Kate Adie</span>
                     </a>

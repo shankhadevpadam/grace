@@ -68,7 +68,7 @@ get_header(); ?>
             <!--end icon-->
           </div>
           <div class="content mt-3 px-3">
-              <a href="<?php echo home_url('about-us/our-people/ariana/'); ?>" class="text-dark h5 mb-0 title">Ariana</a>
+              <a href="<?php echo home_url('/?page_id=32'); ?>" class="text-dark h5 mb-0 title">Ariana</a>
               <h6 class="text-muted fw-normal">Support Star</h6>
               <h6 class="mb-3"><i class="bi bi-geo-alt-fill"></i> QLD</h6>
               <p>Say hi to Ariana! It was her career in nursing that led Ariana to become a Support Star ...</p>
@@ -108,7 +108,7 @@ get_header(); ?>
             <!--end icon-->
           </div>
           <div class="content mt-3 px-3">
-              <a href="<?php echo home_url('about-us/our-people/ariana/'); ?>" class="text-dark h5 mb-0 title">Claire</a>
+              <a href="<?php echo home_url('/?page_id=32'); ?>" class="text-dark h5 mb-0 title">Claire</a>
               <h6 class="text-muted fw-normal">Clinical Nurse</h6>
               <h6 class="mb-3"><i class="bi bi-geo-alt-fill"></i> QLD</h6>
               <p>Say hello to Claire!She started her journey as a Clinical Nurse with Gracefully Care seven ...</p>
@@ -148,7 +148,7 @@ get_header(); ?>
             <!--end icon-->
           </div>
           <div class="content mt-3 px-3">
-              <a href="<?php echo home_url('about-us/our-people/ariana/'); ?>" class="text-dark h5 mb-0 title">Dylan</a>
+              <a href="<?php echo home_url('/?page_id=32'); ?>" class="text-dark h5 mb-0 title">Dylan</a>
               <h6 class="text-muted fw-normal">Support & Care Coordinator</h6>
               <h6 class="mb-3"><i class="bi bi-geo-alt-fill"></i> NSW</h6>
               <p>Meet Dylan! He joined Gracefully Care a year ago and is enjoying his role as a Support ...</p>
@@ -188,7 +188,7 @@ get_header(); ?>
             <!--end icon-->
           </div>
           <div class="content mt-3 px-3">
-              <a href="<?php echo home_url('about-us/our-people/ariana/'); ?>" class="text-dark h5 mb-0 title">Gabriela</a>
+              <a href="<?php echo home_url('/?page_id=32'); ?>" class="text-dark h5 mb-0 title">Gabriela</a>
               <h6 class="text-muted fw-normal">Support & Care Coordinator</h6>
               <h6 class="mb-3"><i class="bi bi-geo-alt-fill"></i> SA</h6>
               <p>Say hi to Gabriela! From a very young age, Gabriela always dreamed of helping others and ...</p>
@@ -228,7 +228,7 @@ get_header(); ?>
             <!--end icon-->
           </div>
           <div class="content mt-3 px-3">
-              <a href="<?php echo home_url('about-us/our-people/ariana/'); ?>" class="text-dark h5 mb-0 title">Ariana</a>
+              <a href="<?php echo home_url('/?page_id=32'); ?>" class="text-dark h5 mb-0 title">Ariana</a>
               <h6 class="text-muted fw-normal">Support Star</h6>
               <h6 class="mb-3"><i class="bi bi-geo-alt-fill"></i> QLD</h6>
               <p>Say hi to Ariana! It was her career in nursing that led Ariana to become a Support Star ...</p>
@@ -268,7 +268,7 @@ get_header(); ?>
             <!--end icon-->
           </div>
           <div class="content mt-3 px-3">
-              <a href="<?php echo home_url('about-us/our-people/ariana/'); ?>" class="text-dark h5 mb-0 title">Ariana</a>
+              <a href="<?php echo home_url('/?page_id=32'); ?>" class="text-dark h5 mb-0 title">Ariana</a>
               <h6 class="text-muted fw-normal">Support Star</h6>
               <h6 class="mb-3"><i class="bi bi-geo-alt-fill"></i> QLD</h6>
               <p>Say hi to Ariana! It was her career in nursing that led Ariana to become a Support Star ...</p>
@@ -308,7 +308,7 @@ get_header(); ?>
             <!--end icon-->
           </div>
           <div class="content mt-3 px-3">
-              <a href="<?php echo home_url('about-us/our-people/ariana/'); ?>" class="text-dark h5 mb-0 title">Ariana</a>
+              <a href="<?php echo home_url('/?page_id=32'); ?>" class="text-dark h5 mb-0 title">Ariana</a>
               <h6 class="text-muted fw-normal">Support Star</h6>
               <h6 class="mb-3"><i class="bi bi-geo-alt-fill"></i> QLD</h6>
               <p>Say hi to Ariana! It was her career in nursing that led Ariana to become a Support Star ...</p>

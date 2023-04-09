@@ -1,3 +1,35 @@
+.stories-carousel{
+  .owl-nav{
+    display: flex;
+    gap: 12px;
+    bottom: 40px;
+    button{
+      &.owl-prev,
+      &.owl-next{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        margin: 0;
+        color: #fff;
+        border: 1px solid #fff;
+        border-radius: 50%;
+        span{
+          display: block;
+          transform: scale(1.6) translateY(-1px);
+          transform-origin: center;
+        }
+      }
+    }
+  }
+  @media (max-width: 991px){
+    .stories-content-wrapper{
+      margin-bottom: 32px;
+    }
+  }
+}
+
 .story-inline-wrapper {
   display: flex;
   align-items: center;

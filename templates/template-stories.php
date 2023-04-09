@@ -30,7 +30,7 @@ get_header(); ?>
           <p>If so, we think you might make the perfect Support Star, and we’re hiring now!</p>
           <p>We’re looking for stars with great people skills, who are patient, compassionate, and have a smile on their face. People who want to make a difference in the life of others and are part of their local community. We are an organisation that embraces diversity and individuality and likes to have fun!</p>
           <p>We understand that everyone has different needs, abilities, and aspirations. We are committed to delivering our support with a flexible approach that focuses on your unique needs and empowers you to take control of your life.</p>
-          <a href="<?php echo home_url('stories/chloe-catherine/'); ?>" class="btn btn-primary text-white">See The Story</a>
+          <a href="<?php echo home_url('/?page_id=25'); ?>" class="btn btn-primary text-white">See The Story</a>
         </div>
       </div>
     </div>
@@ -41,47 +41,47 @@ get_header(); ?>
     <div class="row align-items-center">
       <div class="col-lg-12">
         <div class="story-inline-wrapper mb-5">
-          <a href="<?php echo home_url('stories/chloe-catherine/'); ?>" class="story-inline-img">
+          <a href="<?php echo home_url('/?page_id=25'); ?>" class="story-inline-img">
             <img src="<?php bloginfo('template_directory');?>/assets/images/Nurse_and_client_smiling_together_banner_large.jpg" alt="" class="img-fluid">
             <i class="bi bi-play-circle"></i>
           </a>
           <div class="story-inline-content">
             <div class="stories-content-wrapper">
-              <a href="<?php echo home_url('stories/chloe-catherine/'); ?>" class="story-heading">
+              <a href="<?php echo home_url('/?page_id=25'); ?>" class="story-heading">
                 <h1>Chloe &amp; Catherine</h1>
               </a>
               <p>Chloe and Catherine are the perfect match! After a skiing accident in 2017, Chloe was left paralysed. Catherine has been there through the ups and the downs of Chloe’s journey, supporting her with her daily routine, household cleaning and as a new found friend.</p>
-              <a href="<?php echo home_url('stories/chloe-catherine/'); ?>" class="btn btn-secondary px-4">See The Watch</a>
+              <a href="<?php echo home_url('/?page_id=25'); ?>" class="btn btn-secondary px-4">See The Watch</a>
             </div>
           </div>
         </div>
         <div class="story-inline-wrapper mb-5">
-          <a href="<?php echo home_url('stories/chloe-catherine/'); ?>" class="story-inline-img">
+          <a href="<?php echo home_url('/?page_id=25'); ?>" class="story-inline-img">
             <img src="<?php bloginfo('template_directory');?>/assets/images/Nurse_and_client_smiling_together_banner_large.jpg" alt="" class="img-fluid">
             <i class="bi bi-play-circle"></i>
           </a>
           <div class="story-inline-content">
             <div class="stories-content-wrapper">
-              <a href="<?php echo home_url('stories/chloe-catherine/'); ?>" class="story-heading">
+              <a href="<?php echo home_url('/?page_id=25'); ?>" class="story-heading">
                 <h1>Daniel, Chloe & Haley</h1>
               </a>
               <p>Chloe and Catherine are the perfect match! After a skiing accident in 2017, Chloe was left paralysed. Catherine has been there through the ups and the downs of Chloe’s journey, supporting her with her daily routine, household cleaning and as a new found friend.</p>
-              <a href="<?php echo home_url('stories/chloe-catherine/'); ?>" class="btn btn-secondary px-4">See The Watch</a>
+              <a href="<?php echo home_url('/?page_id=25'); ?>" class="btn btn-secondary px-4">See The Watch</a>
             </div>
           </div>
         </div>
         <div class="story-inline-wrapper mb-5">
-          <a href="<?php echo home_url('stories/chloe-catherine/'); ?>" class="story-inline-img">
+          <a href="<?php echo home_url('/?page_id=25'); ?>" class="story-inline-img">
             <img src="<?php bloginfo('template_directory');?>/assets/images/Nurse_and_client_smiling_together_banner_large.jpg" alt="" class="img-fluid">
             <i class="bi bi-play-circle"></i>
           </a>
           <div class="story-inline-content">
             <div class="stories-content-wrapper">
-              <a href="<?php echo home_url('stories/chloe-catherine/'); ?>" class="story-heading">
+              <a href="<?php echo home_url('/?page_id=25'); ?>" class="story-heading">
                 <h1>Johnno & Robyn</h1>
               </a>
               <p>Chloe and Catherine are the perfect match! After a skiing accident in 2017, Chloe was left paralysed. Catherine has been there through the ups and the downs of Chloe’s journey, supporting her with her daily routine, household cleaning and as a new found friend.</p>
-              <a href="<?php echo home_url('stories/chloe-catherine/'); ?>" class="btn btn-secondary px-4">See The Watch</a>
+              <a href="<?php echo home_url('/?page_id=25'); ?>" class="btn btn-secondary px-4">See The Watch</a>
             </div>
           </div>
         </div>
