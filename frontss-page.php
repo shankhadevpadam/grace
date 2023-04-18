@@ -7,7 +7,9 @@
  *
  * @package gracefully_care
  */
-  get_header(); ?>
+  get_header();
+  locate_template('views/hero-banner/index.php', true, false);
+  ?>
 <section class="home-banner">
   <div class="container">
     <div class="row">

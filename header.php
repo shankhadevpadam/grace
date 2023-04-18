@@ -44,8 +44,58 @@
   <link rel="stylesheet" href="<?php bloginfo('template_directory');?>/assets/dist/css/main.css">
 </head>
 <body>
-  <header class="main-header wc-primary-nav">
-    <nav class="navbar navbar-expand-xl bg-white">
+  <header class="main-header ">
+    <div class="top-header-wrapper">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="top-header-list">
+              <ul>
+                <li>
+                  <a href="tel:+84 007 291 590" class="d-flex align-items-center gap-2">
+                    <i class="bi bi-telephone-inbound"></i>
+                    <span>+84 007 291 590</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="mailto:info@gracefully.au" class="d-flex align-items-center gap-2">
+                    <i class="bi bi-envelope"></i>
+                    <span>info@gracefully.au</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6 text-md-end">
+            <div class="top-header-list">
+              <ul>
+                <li>
+                  <a target="_blank" aria-label="facebook" href="#">
+                    <i class="bi bi-facebook"></i>
+                  </a>
+                </li>
+                <li>
+                  <a target="_blank" aria-label="instagram" href="#">
+                    <i class="bi bi-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a target="_blank" aria-label="linkedin" href="#">
+                    <i class="bi bi-linkedin"></i>
+                  </a>
+                </li>
+                <li>
+                  <a target="_blank" aria-label="twitter" href="#">
+                    <i class="bi bi-twitter"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <nav class="navbar navbar-expand-xl bg-white wc-primary-nav">
       <div class="container-fluid">
         <a class="navbar-brand" href="<?php echo home_url('/'); ?>">
           <img src="<?php bloginfo('template_directory');?>/assets/images/gracefully-demo-logo.png" alt="Primary Logo" class="img-fluid" />
@@ -55,30 +105,30 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle active" aria-current="page" href="#" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="<?php echo home_url('aged-care'); ?>">Aged Care</a></li>
-                <li><a class="dropdown-item" href="<?php echo home_url('aged-care'); ?>">Disability Support</a></li>
-                <li><a class="dropdown-item" href="<?php echo home_url('aged-care'); ?>">High Level Support</a></li>
-                <li><a class="dropdown-item" href="<?php echo home_url('aged-care'); ?>">Schedule a Support Consultation</a></li>
+                <li><a class="dropdown-item" href="<?php echo home_url('/?page_id=14'); ?>">Aged Care</a></li>
+                <li><a class="dropdown-item" href="<?php echo home_url('/?page_id=14'); ?>">Disability Support</a></li>
+                <li><a class="dropdown-item" href="<?php echo home_url('/?page_id=14'); ?>">High Level Support</a></li>
+                <li><a class="dropdown-item" href="<?php echo home_url('/?page_id=14'); ?>">Schedule a Support Consultation</a></li>
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="<?php echo home_url('support-star'); ?>">Support Star</a>
+              <a class="nav-link" href="<?php echo home_url('/?page_id=16'); ?>">Support Star</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="<?php echo home_url('stories'); ?>">Stories</a>
+              <a class="nav-link" href="<?php echo home_url('/?page_id=18'); ?>">Stories</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">About</a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="<?php echo home_url('about'); ?>">About us</a></li>
-                <li><a class="dropdown-item" href="<?php echo home_url('our-people'); ?>">Our People</a></li>
+                <li><a class="dropdown-item" href="<?php echo home_url('/?page_id=20'); ?>">About us</a></li>
+                <li><a class="dropdown-item" href="<?php echo home_url('/?page_id=27'); ?>">Our People</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#"  data-bs-toggle="dropdown" aria-expanded="false">Contact</a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="<?php echo home_url('contact-us'); ?>">Contact us</a></li>
-                <li><a class="dropdown-item" href="<?php echo home_url('feedback-compliments-and-complaints/'); ?>">Feedback, Compliments and Complaints</a></li>
+                <li><a class="dropdown-item" href="<?php echo home_url('/?page_id=22'); ?>">Contact us</a></li>
+                <li><a class="dropdown-item" href="<?php echo home_url('/?page_id=30'); ?>">Feedback, Compliments and Complaints</a></li>
               </ul>
             </li>
           </ul>

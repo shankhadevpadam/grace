@@ -1,0 +1,105 @@
+{
+    "key": "group_6423b15dcbeb5",
+    "title": "Home Banner",
+    "fields": [
+        {
+            "key": "banner_content",
+            "label": "Banner Content",
+            "name": "banner_content",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "headline",
+                    "label": "Headline",
+                    "name": "Headline",
+                    "aria-label": "",
+                    "type": "text",
+                    "instructions": "",
+                    "required": false,
+                    "conditional_logic": false,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "Supporting you to live the life you want",
+                    "maxlength": "",
+                    "placeholder": "",
+                    "prepend": "",
+                    "append": ""
+                },
+                {
+                    "key": "cta",
+                    "label": "CTA",
+                    "name": "CTA",
+                    "aria-label": "",
+                    "type": "link",
+                    "instructions": "",
+                    "required": false,
+                    "conditional_logic": false,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": {
+                        "url": "#",
+                        "title": "The latest COVID-19 information"
+                    },
+                    "return_format": "array"
+                }
+            ]
+        },
+        {
+            "key": "banner_video",
+            "label": "Banner Video",
+            "name": "banner_video",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Enter the URL of the Vimeo video to display in the banner.",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page_type",
+                "operator": "==",
+                "value": "front_page"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": [
+        "the_content"
+    ],
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1680752058
+}

@@ -1,0 +1,40 @@
+{
+    "key": "group_643145f04ba07",
+    "title": "Block : Contact Form",
+    "fields": [
+        {
+            "key": "field_643145f0f7555",
+            "label": "Choose Form",
+            "name": "choose_form",
+            "aria-label": "",
+            "type": "acf_cf7",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            }
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": false,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1680950820
+}
